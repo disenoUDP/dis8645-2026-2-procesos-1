@@ -1,6 +1,26 @@
 # sesion-01b
+*"No se cobra por hora, se cobra por obra".*
+
+Hola profe Aarón, Emi, y Sebas. Espero que se encuentren bien en el momento que estén leyendo estos textos.
+
+El día de hoy en clase: 
+
+1. La historia del dicho: se me “Bugueo” el compu.
+2. Introducción a Arduino / Instalación del software / Placa de Arduino R4 wifi
+3. The untold History of Arduino.
+4. Ejemplos de construcción de variables y funciones en C++ arduino.
+5. Markdown para agregar código en Github. 
+
+Comencemos.
+
 
 ## apuntes sesión
+
+## 1. La historia del dicho: se me “Bugueo” el compu.
+## 2. Introducción a Arduino / Instalación del software / Placa de Arduino R4 wifi
+## 3. The untold History of Arduino.
+## 4. Ejemplos de construcción de variables y funciones en C++ arduino.
+## 5. Markdown para agregar código en Github. 
 
 ## encargos
 
